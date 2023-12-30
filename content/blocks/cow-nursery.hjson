@@ -9,6 +9,7 @@ itemCapacity: 10
 consumes: {
     liquid: milk/0.4
     items:[
+        calf/1,
         wheat/3
     ]
 }
