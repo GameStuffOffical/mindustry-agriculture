@@ -1,0 +1,8 @@
+name: Plastic Jug of Milk
+description: An opaqe white liquid that is thicker than water. Stored in a glass jug. Not suitable for feeding calfs.
+color: ffffffff
+flammability: 0
+radioactivity: 0
+charge: 0
+explosiveness: 0
+research: milk

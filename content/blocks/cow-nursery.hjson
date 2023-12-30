@@ -1,0 +1,36 @@
+name: Cow Nursery
+description: Grows calfs up.
+type: GenericCrafter
+size: 4
+outputItems: [
+  adult-cow/1
+]
+itemCapacity: 10
+consumes: {
+    liquid: milk/0.4
+    item: wheat/3
+}
+
+// Crafts 1nce per second.
+craftTime: 60
+
+// Makes a nice flamey effect.
+// drawer: {
+//     type: drawMulti
+//     drawers: [
+//         {
+//             type:DrawDefault
+//         }
+//         {
+//             type:DrawFlame
+//         }
+//     ]
+// }
+
+Requirements: [
+copper/10
+titanium/1
+]
+
+research: copper
+category: crafting

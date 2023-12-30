@@ -3,13 +3,13 @@ description: Bottles Milks Into Glass Jugs
 type: GenericCrafter
 size: 2
 outputItems: [
-  bottled-milk/2
+  glass-jug-milk/2
 ]
 itemCapacity: 10
 consumes: {
     liquid: milk/0.333
     items: [
-        metaglass/2
+        glass-jug/2
     ]
 }
 
