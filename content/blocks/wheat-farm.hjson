@@ -7,7 +7,7 @@ outputItems: [
 ]
 itemCapacity: 10
 consumes: {
-    liquid: water/20
+    liquid: water/0.5
 }
 
 // Crafts 1nce per second.
