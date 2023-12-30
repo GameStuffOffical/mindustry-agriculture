@@ -8,6 +8,7 @@ outputItems: [
 itemCapacity: 10
 consumes: {
     liquid: milk/0.333
+    item: metaglass: 2
 }
 
 // Crafts 1nce per second.
