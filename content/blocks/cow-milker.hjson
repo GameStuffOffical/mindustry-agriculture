@@ -2,8 +2,8 @@ name: Milkery
 description: Milks your cows for you.
 type: GenericCrafter
 size: 3
-outputItems: [
-  milk/10
+outputLiquids: [
+  milk/20
 ]
 itemCapacity: 50
 consumes: {
