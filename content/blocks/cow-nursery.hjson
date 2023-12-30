@@ -8,7 +8,9 @@ outputItems: [
 itemCapacity: 10
 consumes: {
     liquid: milk/0.4
-    item: wheat/3
+    items:[
+        wheat/3
+    ]
 }
 
 // Crafts 1nce per second.
