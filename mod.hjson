@@ -1,6 +1,6 @@
-name: ""
-displayName: ""
-author: ""
-description: ""
-version: 0.0
-minGameVersion: 104
+name: "midustry-agriculture"
+displayName: "Agriculture Mod"
+author: "GameStuff"
+description: "Do you like cows? So you like farming? This is that game."
+version: 0.0.1
+minGameVersion: 136
