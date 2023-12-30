@@ -10,7 +10,7 @@ liquidCapacity: 1000
 consumes: {
     items: [
       adult-cow/1,
-      wheat/10
+      wheat/30
     ]
 }
 
