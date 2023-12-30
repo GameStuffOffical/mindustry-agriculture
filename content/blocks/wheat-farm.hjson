@@ -1,0 +1,35 @@
+name: Wheat Farm
+description: Makes Wheats
+type: GenericCrafter
+size: 5
+outputItems: [
+  wheat/2
+]
+itemCapacity: 10
+consumes: {
+    liquid: water/20
+}
+
+// Crafts 1nce per second.
+craftTime: 60
+
+// Makes a nice flamey effect.
+// drawer: {
+//     type: drawMulti
+//     drawers: [
+//         {
+//             type:DrawDefault
+//         }
+//         {
+//             type:DrawFlame
+//         }
+//     ]
+// }
+
+Requirements: [
+copper/10
+titanium/1
+]
+
+research: copper
+category: crafting
