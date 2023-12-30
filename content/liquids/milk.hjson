@@ -1,0 +1,12 @@
+name: Milk
+description: An opaqe white liquid that is thicker than water.
+gas: false
+color: ffffffff
+flammability: 0
+temperature: 0.75
+heatCapacity: 0.5
+viscosity: 0.025
+explosiveness: 0
+research: adult-cow
+effect: wet
+coolant: false
