@@ -3,9 +3,10 @@ description: Milks your cows for you.
 type: GenericCrafter
 size: 3
 outputLiquids: [
-  milk/20
+  milk/2
 ]
 itemCapacity: 50
+liquidCapacity: 1000
 consumes: {
     items: [
       adult-cow/1
