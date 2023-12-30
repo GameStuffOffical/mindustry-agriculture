@@ -1,0 +1,35 @@
+name: Milk Bottlery
+description: Bottles Milks Into Glass Jugs
+type: GenericCrafter
+size: 2
+outputItems: [
+  bottled-milk/2
+]
+itemCapacity: 10
+consumes: {
+    liquid: milk/0.333
+}
+
+// Crafts 1nce per second.
+craftTime: 30
+
+// Makes a nice flamey effect.
+// drawer: {
+//     type: drawMulti
+//     drawers: [
+//         {
+//             type:DrawDefault
+//         }
+//         {
+//             type:DrawFlame
+//         }
+//     ]
+// }
+
+Requirements: [
+copper/10
+titanium/1
+]
+
+research: milk
+category: crafting
